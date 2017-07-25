@@ -3,6 +3,7 @@
 //
 
 // Using namespace std
+// std:cout ในการที่จะอนุญาติให้สามารถเข้าถึงทุกอย่างใน namespace ได้โดยไม่ต้องใช้ std:prefix เราจำเป็นต้องใช้คำสั่ง using namespace std
 
 #include <iostream>
 
